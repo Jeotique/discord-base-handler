@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "mxtorie-db": "^1.0.5"
+  }
+}
